@@ -1,5 +1,5 @@
 public struct DesignerPackage {
-    var text = "Hello, World!"
+    public var text = "Hello, World!"
     
     public init() {
         	
